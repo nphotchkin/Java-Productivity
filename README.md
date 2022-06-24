@@ -1,5 +1,5 @@
 # Java-Productivity
-##### Productivity tools for rapid app development
+##### A list of Productivity tools for rapid app development
 
 <img    src="https://lh4.googleusercontent.com/_nn0TBN3Qrxqc7ZkOD9xTd5zJCG9KGgvsDXE8PHUwj1ujXxZMJ2aIrGSDyKA3k3H0VysTy5i2VYCtO_8X1INBHI1AbzCnRK_vwmvVE_63STs4tH1uaOuiROJJPXnQbwxsE3m6lHD" 
  alt="banner" 
