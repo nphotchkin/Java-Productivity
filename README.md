@@ -2,10 +2,19 @@
 Productivity tools for rapid app development
 ---
 
+## Contents
+ - [Code Generators](#code-generators)
+ - [Background Jobs](#background-jobs)
+ - [Security](#security)
+ - [Development And Testing](#development-and-testing)
+ - [Helpful Lists](#helpful-lists)
+ - [Steal Some Code](#steal-some-code)
+
 <br/>
 <br/>
 
-> 📘 Code Generators
+### Code Generators
+> 📘 
 > 
 > Quick / Dirty Code
 
@@ -48,7 +57,8 @@ jsonschema2pojo --source address --target java-gen
 <br/>
 <br/>
 
-> 🤖 Background Jobs
+### Background Jobs
+> 🤖
 > 
 > Create scalable scheduled tasks, backed by persistence with a backoffice for managing them.
 
@@ -61,7 +71,8 @@ jsonschema2pojo --source address --target java-gen
 <br/>
 <br/> 
  
-> 🛡️ Security
+### Security
+> 🛡️ 
 > 
 > 15 Minute Security
 
@@ -70,7 +81,8 @@ jsonschema2pojo --source address --target java-gen
 <br/>
 <br/>
 
-> 🛠️ Development / Testing
+### Development And Testing
+> 🛠️ 
 > 
 > Dependancies that speed up testing / development
  
@@ -91,7 +103,8 @@ jsonschema2pojo --source address --target java-gen
 <br/>
 <br/>
 
-> 📚 Helpful Lists 
+### Helpful Lists 
+> 📚 
 > 
 > Public API's / Ultimate Java Library List
 
@@ -101,7 +114,8 @@ jsonschema2pojo --source address --target java-gen
 <br/>
 <br/>
 
-> 🌌 Has Someone Done it Already?
+### Steal Some Code
+> 🌌 
 > 
 > Code Examples
 
