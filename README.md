@@ -5,6 +5,8 @@
  
 ##### A list of Productivity tools for rapid app development
 
+<br/>
+
 ## Contents
  - 📘 [Code Generators](#code-generators)
  - 🤖 [Background Jobs](#background-jobs)
@@ -14,6 +16,12 @@
  - 🌌 [Steal Some Code](#steal-some-code)
  - 🎨 [Content And Artwork](#content-and-artwork)
  - 📔 [Tutorials](#tutorials)
+
+
+<br/>
+<br/>
+
+<hr>
 
 ### Code Generators
 > 📘 
