@@ -41,7 +41,7 @@ jsonschema2pojo --source address --target java-gen
 
 > 🤖 Background Jobs
 > 
-> Create scalable scheduled tasks
+> Create scalable scheduled tasks, backed by persistence with a backoffice for managing them.
 
 - [JobRunr - Lambda to Job](https://github.com/jobrunr/jobrunr)
 
