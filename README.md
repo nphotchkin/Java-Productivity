@@ -1,9 +1,7 @@
 # Java-Productivity
 ##### Productivity tools for rapid app development
+![banner](https://assets.entrepreneur.com/content/3x2/2000/20190612193425-GettyImages-1066987316-crop.jpeg?auto=webp&quality=95&crop=16:9&width=675)
 ---
-
-<br/>
-<br/>
 
 ## Contents
  - [Code Generators](#code-generators)
@@ -12,9 +10,6 @@
  - [Development And Testing](#development-and-testing)
  - [Helpful Lists](#helpful-lists)
  - [Steal Some Code](#steal-some-code)
-
-<br/>
-<br/>
 
 ### Code Generators
 > 📘 
