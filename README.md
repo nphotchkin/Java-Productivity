@@ -7,13 +7,14 @@
 ---
 
 ## Contents
- - [Code Generators](#code-generators)
- - [Background Jobs](#background-jobs)
- - [Security](#security)
- - [Development And Testing](#development-and-testing)
- - [Helpful Lists](#helpful-lists)
- - [Steal Some Code](#steal-some-code)
- - [Content And Artwork](#content-and-artwork)
+ - 📘 [Code Generators](#code-generators)
+ - 🤖 [Background Jobs](#background-jobs)
+ - 🛡️ [Security](#security)
+ - 🛠️ [Development And Testing](#development-and-testing)
+ - 📚 [Helpful Lists](#helpful-lists)
+ - 🌌 [Steal Some Code](#steal-some-code)
+ - 🎨 [Content And Artwork](#content-and-artwork)
+ - 📔 [Tutorials](#tutorials)
 
 ### Code Generators
 > 📘 
@@ -137,4 +138,12 @@ jsonschema2pojo --source address --target java-gen
 - [Web Design Trends](https://abduzeedo.com/)
 - [UX Check List](https://www.checklist.design/)
 
+<br/>
+<br/>
 
+### Tutorials
+> 📔 
+> 
+> Java / Spring Samples
+
+ - [Spring & Algorithms](https://github.com/eugenp/tutorials)
