@@ -1,6 +1,9 @@
 # Java-Productivity
 ##### Productivity tools for rapid app development
-![banner](https://assets.entrepreneur.com/content/3x2/2000/20190612193425-GettyImages-1066987316-crop.jpeg?auto=webp&quality=95&crop=16:9&width=675)
+
+<img    src="https://lh4.googleusercontent.com/_nn0TBN3Qrxqc7ZkOD9xTd5zJCG9KGgvsDXE8PHUwj1ujXxZMJ2aIrGSDyKA3k3H0VysTy5i2VYCtO_8X1INBHI1AbzCnRK_vwmvVE_63STs4tH1uaOuiROJJPXnQbwxsE3m6lHD" 
+ alt="banner" 
+ width="200"/>
 ---
 
 ## Contents
@@ -10,6 +13,7 @@
  - [Development And Testing](#development-and-testing)
  - [Helpful Lists](#helpful-lists)
  - [Steal Some Code](#steal-some-code)
+ - [Content And Artwork](#content-and-artwork)
 
 ### Code Generators
 > 📘 
@@ -121,10 +125,13 @@ jsonschema2pojo --source address --target java-gen
 - [TabNine](https://www.tabnine.com/code)
 - [Just Cheat](https://github.com/features/copilot/)
 
+<br/>
+<br/>
+
 ### Content And Artwork
 > 🎨 
 > 
-> Web Assets
+> Web Assets / Reference Material
 - [3D Shapes](https://www.shapefest.com/)
 - [ASCII Art](https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20)
 - [Web Design Trends](https://abduzeedo.com/)
