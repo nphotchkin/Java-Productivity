@@ -33,8 +33,9 @@ jsonschema2pojo --source address --target java-gen
 #### [Spring Roo](https://spring.io/projects/spring-roo#overview)
  - Ancient but has some use:
      - [Reverse Engineer A Database to a Spring Web App](http://rburawes.github.io/)
-     - Rapid App Development
+     - Throwaway Rapid App Development
      - Create a Throwaway back office from a domain model
+     - Generate a monolith from a schema then rip out the good code
 
 <br/>
 <br/>
