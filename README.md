@@ -84,7 +84,29 @@ jsonschema2pojo --source address --target java-gen
 </dependency>
 ```
 
-</br>
+<br/>
 
  - [Fake Data](https://github.com/DiUS/java-faker)
  
+<br/>
+<br/>
+
+> 📚 Helpful Lists 
+> 
+> Public API's / Ultimate Java Library List
+
+- [Public API's](https://github.com/public-apis/public-apis)
+- [Awesome Java](https://github.com/akullpp/awesome-java)
+
+<br/>
+<br/>
+
+> 🌌 Has Someone Done it Already?
+> 
+> Code Examples
+
+- [Program Creek](https://www.programcreek.com/java-api-examples/?action=search)
+- [TabNine](https://www.tabnine.com/code)
+- [Just Cheat](https://github.com/features/copilot/)
+
+
