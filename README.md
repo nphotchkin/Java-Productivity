@@ -1,6 +1,7 @@
 # Java-Productivity
 Productivity tools for rapid app development
 ---
+
 <br/>
 <br/>
 
@@ -17,6 +18,7 @@ java -jar modules/swagger-codegen-cli/target/swagger-codegen-cli.jar generate \
     --library spring-cloud \
     -o samples/client/petstore/java
 ```
+
 <br/>
 <br/>
 
@@ -25,11 +27,13 @@ java -jar modules/swagger-codegen-cli/target/swagger-codegen-cli.jar generate \
  
 <br/>
 <br/>
+
 #### [Spring Roo](https://spring.io/projects/spring-roo#overview)
  - Ancient but has some use:
      - (Reverse Engineer A Database to a Spring Web App)[http://rburawes.github.io/]
      - Rapid App Development
      - Create a Throwaway back office from a domain model
+     - 
 <br/>
 <br/>
 
@@ -38,6 +42,7 @@ java -jar modules/swagger-codegen-cli/target/swagger-codegen-cli.jar generate \
 > Create scalable scheduled tasks
 
 - [JobRunr - Lambda to Job](https://github.com/jobrunr/jobrunr)
+
  ```java
  BackgroundJob.enqueue(() -> System.out.println("This is all you need for distributed jobs!"));
  ```
