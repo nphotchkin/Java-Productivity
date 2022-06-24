@@ -30,10 +30,10 @@ java -jar modules/swagger-codegen-cli/target/swagger-codegen-cli.jar generate \
 
 #### [Spring Roo](https://spring.io/projects/spring-roo#overview)
  - Ancient but has some use:
-     - (Reverse Engineer A Database to a Spring Web App)[http://rburawes.github.io/]
+     - [Reverse Engineer A Database to a Spring Web App](http://rburawes.github.io/)
      - Rapid App Development
      - Create a Throwaway back office from a domain model
-     - 
+
 <br/>
 <br/>
 
@@ -46,3 +46,13 @@ java -jar modules/swagger-codegen-cli/target/swagger-codegen-cli.jar generate \
  ```java
  BackgroundJob.enqueue(() -> System.out.println("This is all you need for distributed jobs!"));
  ```
+
+<br/>
+<br/> 
+ 
+> 🛡️ Security
+> 
+> 15 Minute Security
+
+ - [Auth0-Boot](https://auth0.com/docs/quickstart/backend/java-spring-security5/01-authorization)
+ 
