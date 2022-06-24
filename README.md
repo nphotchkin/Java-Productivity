@@ -39,7 +39,7 @@ jsonschema2pojo --source address --target java-gen
 
 #### [Lombok](https://projectlombok.org/setup/maven)
  - Boiler Plate Java
- - 
+
 <br/>
 
 #### [MapStruct](https://mapstruct.org/documentation/installation/)
