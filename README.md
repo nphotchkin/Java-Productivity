@@ -66,4 +66,25 @@ jsonschema2pojo --source address --target java-gen
 > 15 Minute Security
 
  - [Auth0-Boot](https://auth0.com/docs/quickstart/backend/java-spring-security5/01-authorization)
+
+<br/>
+<br/>
+
+> 🛠️ Development / Testing
+> 
+> Dependancies that speed up testing / development
+ 
+ - [Spring Boot Dev Tools](https://www.baeldung.com/spring-boot-devtools)
+   - Start your Spring app, re-build project for 1-10 second builds.
+ 
+ ```xml
+ <dependency>
+    <groupId>org.springframework.boot</groupId>
+    <artifactId>spring-boot-devtools</artifactId>
+</dependency>
+```
+
+</br>
+
+ - [Fake Data](https://github.com/DiUS/java-faker)
  
