@@ -20,12 +20,14 @@ java -jar modules/swagger-codegen-cli/target/swagger-codegen-cli.jar generate \
 ```
 
 <br/>
-<br/>
 
 #### [Json 2 Pojo](https://www.jsonschema2pojo.org/)
- > [CLI](https://github.com/joelittlejohn/jsonschema2pojo/wiki/Getting-Started#the-command-line-interface)
- 
-<br/>
+ - [CLI](https://github.com/joelittlejohn/jsonschema2pojo/wiki/Getting-Started#the-command-line-interface)
+
+```shell
+jsonschema2pojo --source address --target java-gen
+```
+
 <br/>
 
 #### [Spring Roo](https://spring.io/projects/spring-roo#overview)
