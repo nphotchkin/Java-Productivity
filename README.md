@@ -121,4 +121,13 @@ jsonschema2pojo --source address --target java-gen
 - [TabNine](https://www.tabnine.com/code)
 - [Just Cheat](https://github.com/features/copilot/)
 
+### Content And Artwork
+> 🎨 
+> 
+> Web Assets
+- [3D Shapes](https://www.shapefest.com/)
+- [ASCII Art](https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20)
+- [Web Design Trends](https://abduzeedo.com/)
+- [UX Check List](https://www.checklist.design/)
+
 
