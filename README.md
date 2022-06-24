@@ -7,7 +7,7 @@ Productivity tools for rapid app development
 
 > 📘 Code Generators
 > 
-> Quick & Dirty Code
+> Quick / Dirty Code
 
 #### [Open Fiegn Client Code Gen](https://github.com/swagger-api/swagger-codegen/tree/master/modules/swagger-codegen/src/main/resources/JavaSpring/libraries/spring-cloud)
 
