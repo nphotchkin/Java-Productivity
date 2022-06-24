@@ -1,10 +1,8 @@
 # Java-Productivity
-##### A list of Productivity tools for rapid app development
-
-<img    src="https://lh4.googleusercontent.com/_nn0TBN3Qrxqc7ZkOD9xTd5zJCG9KGgvsDXE8PHUwj1ujXxZMJ2aIrGSDyKA3k3H0VysTy5i2VYCtO_8X1INBHI1AbzCnRK_vwmvVE_63STs4tH1uaOuiROJJPXnQbwxsE3m6lHD" 
+ <img src="https://user-images.githubusercontent.com/15834648/175574982-b52b1339-10b6-4321-b5d5-3376c1aaaa56.png" 
  alt="banner" 
  width="200"/>
----
+##### A list of Productivity tools for rapid app development
 
 ## Contents
  - 📘 [Code Generators](#code-generators)
