@@ -37,6 +37,14 @@ jsonschema2pojo --source address --target java-gen
      - Create a Throwaway back office from a domain model
      - Generate a monolith from a schema then rip out the good code
 
+#### [Lombok](https://projectlombok.org/setup/maven)
+ - Boiler Plate Java
+ - 
+<br/>
+
+#### [MapStruct](https://mapstruct.org/documentation/installation/)
+ - Object Mapping, use for throwaway projects.
+
 <br/>
 <br/>
 
