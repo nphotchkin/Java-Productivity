@@ -146,4 +146,5 @@ jsonschema2pojo --source address --target java-gen
 > 
 > Java / Spring Samples
 
- - [Spring & Algorithms](https://github.com/eugenp/tutorials)
+ - [Spring](https://github.com/eugenp/tutorials)
+ - [Algorithms / Sorting / Searching](https://github.com/eugenp/tutorials/tree/master/algorithms-modules)
