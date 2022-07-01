@@ -16,6 +16,7 @@
  - 🌌 [Steal Some Code](#steal-some-code)
  - 🎨 [Content And Artwork](#content-and-artwork)
  - 📔 [Tutorials](#tutorials)
+ - 🧠 [AI](#ai)
 
 
 <br/>
@@ -155,3 +156,11 @@ jsonschema2pojo --source address --target java-gen
 
  - [Spring](https://github.com/eugenp/tutorials)
  - [Algorithms / Sorting / Searching](https://github.com/eugenp/tutorials/tree/master/algorithms-modules)
+
+### AI
+> 🧠 
+> 
+> Machine Learning / NLP
+
+ - [Open NLP](https://opennlp.apache.org/)
+   - Usercases: chatbots, search
