@@ -163,4 +163,4 @@ jsonschema2pojo --source address --target java-gen
 > Machine Learning / NLP
 
  - [Open NLP](https://opennlp.apache.org/)
-   - Usercases: chatbots, search
+ - [Hugging Face 🤗](https://huggingface.co/)
