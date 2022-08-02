@@ -88,6 +88,7 @@ jsonschema2pojo --source address --target java-gen
 > 15 Minute Security
 
  - [Auth0-Boot](https://auth0.com/docs/quickstart/backend/java-spring-security5/01-authorization)
+ - [OWASP-Cheat-Sheet](https://github.com/OWASP/CheatSheetSeries)
 
 <br/>
 <br/>
