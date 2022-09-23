@@ -18,6 +18,7 @@
  - 📔 [Tutorials](#tutorials)
  - 🧠 [AI](#ai)
  - 👾 [VR](#vr)
+ - 🧪 [Testing](#testing)
 
 <br/>
 <br/>
@@ -173,3 +174,9 @@ jsonschema2pojo --source address --target java-gen
 > VR
 
  - [AFrame](https://aframe.io/)
+ 
+### Testing
+> 🧪
+>
+> Testing
+ - [E2E test Example app](https://github.com/khmarbaise/fosdem2021)
