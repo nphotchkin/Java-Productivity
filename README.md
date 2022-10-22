@@ -147,6 +147,7 @@ jsonschema2pojo --source address --target java-gen
 - [ASCII Art](https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20)
 - [Web Design Trends](https://abduzeedo.com/)
 - [UX Check List](https://www.checklist.design/)
+- [Avatars](https://avatars.dicebear.com/)
 
 <br/>
 <br/>
