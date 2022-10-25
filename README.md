@@ -19,6 +19,7 @@
  - 🧠 [AI](#ai)
  - 👾 [VR](#vr)
  - 🧪 [Testing](#testing)
+ - 🛂 [Git](#git)
 
 <br/>
 <br/>
@@ -181,3 +182,10 @@ jsonschema2pojo --source address --target java-gen
 >
 > Testing
  - [E2E test Example app](https://github.com/khmarbaise/fosdem2021)
+
+### Git
+> 🛂
+>
+> Git
+ - [Google for .gitignore](https://www.toptal.com/developers/gitignore)
+
