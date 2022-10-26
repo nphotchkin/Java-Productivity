@@ -113,9 +113,16 @@ jsonschema2pojo --source address --target java-gen
 <br/>
 
  - [Fake Data](https://github.com/DiUS/java-faker)
- 
+
+<br/>
+
+ - [Swiss Army Knife for Data Transformations](https://github.com/gchq/CyberChef)
+
 <br/>
 <br/>
+
+
+
 
 ### Helpful Lists 
 > 📚 
